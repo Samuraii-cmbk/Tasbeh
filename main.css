@@ -1,0 +1,55 @@
+.wrap{
+    width: 800px;
+    height: 1071px;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+}
+img{
+    width: 100%;
+}
+.ekran {
+    width: 325px;
+    height: 134px;
+    border: 8px solid white;
+    background-color: rgb(126, 145, 117);
+    border-radius: 30px;
+    position: absolute;
+    top: 347px;
+    left: 252px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+h1{
+    font-size: 75px;
+    color: rgb(73, 72, 72);
+}
+.reset {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(75, 192, 247);
+    border-radius: 50%;
+    position: absolute;
+    top: 555px;
+    left: 256px;
+
+}
+.kam {
+    width: 72px;
+    height: 72px;
+    background-color:  rgb(75, 192, 247);
+    border-radius: 50%;
+    position: absolute;
+    top: 546px;
+    left: 506px;
+}
+.knopka {
+    width: 158px;
+    height: 155px;
+    background-color: rgb(75, 192, 247);
+    border-radius: 50%;
+    position: absolute;
+    top: 592px;
+    left: 340px;
+}
